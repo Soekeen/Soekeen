@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soekeen&label=Profile%20views&color=0e75b6&style=flat" alt="soekeen" /> </p>
 
-- 📫 Bana nasıl ulaşabilirsiniz **nihatcalp@outlook.com**
+- 📫 Bana nasıl ulaşabilirsiniz **nihatcalp.contact@gmail.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
