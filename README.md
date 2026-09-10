@@ -9,7 +9,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nıhatcalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nıhatcalp" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/n%C4%B1hatcalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nıhatcalp" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
