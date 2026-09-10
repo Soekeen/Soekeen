@@ -1,10 +1,10 @@
 <h1 align="center">Merhaba 👋, ben Nihat Calp</h1>
-<h3 align="center">Türkiye'den, ERP sistemleri ve veri analitiğine tutkulu bir Yönetim Bilişim Sistemleri mezunu</h3>
+<h3 align="center">Türkiye'den, ERP sistemleri, iş zekası ve raporlama alanlarına odaklanan bir Yönetim Bilişim Sistemleri mezunu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soekeen&label=Profile%20views&color=0e75b6&style=flat" alt="soekeen" /> </p>
 
-- 🎓 Yönetim Bilişim Sistemleri Yüksek Lisans öğrencisiyim (Karadeniz Teknik Üniversitesi)
-- 💼 ERP sistemleri (Logo Tiger 3, CANIAS ERP) ve veri analitiği üzerine çalışıyorum
+- 🎓 Yönetim Bilişim Sistemleri Yüksek Lisans öğrencisiyim (İzmir Demokrasi Üniversitesi)
+- 💼 ERP sistemleri (Logo Tiger 3, CANIAS ERP), iş zekası ve raporlama üzerine çalışıyorum
 - 📫 Bana nasıl ulaşabilirsiniz: **nihatcalp.contact@gmail.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
